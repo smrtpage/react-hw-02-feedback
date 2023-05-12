@@ -1,0 +1,6 @@
+.containerSection {
+  display: flex;
+  row-gap: 20px;
+  justify-content: center;
+  flex-direction: column;
+}
